@@ -1,1 +1,1 @@
-
+This section is about setting up a rotary fourth axis in the Arc One platform. It includes files for assembly file (.STEP), updated config.g, sample print file (.GCODE),  sample welding log, timelapse of the sample print.
